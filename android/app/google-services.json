@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332495229774",
+    "firebase_url": "https://metodolit2.firebaseio.com",
+    "project_id": "metodolit2",
+    "storage_bucket": "metodolit2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332495229774:android:f6cf55dd183ee185c8c41f",
+        "android_client_info": {
+          "package_name": "metodolit.metodoloit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332495229774-5krumk1rhv78am4mn8o5n3ihrjf5v9rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1tgQT3LdXcMN0FE6yoK-05yVDc-H6z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332495229774-5krumk1rhv78am4mn8o5n3ihrjf5v9rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
